@@ -64,6 +64,8 @@ This query allows managers to identify which movies in the catalog have not yet 
 
 
 Query 2
+
+
 <img width="490" height="291" alt="image" src="https://github.com/user-attachments/assets/df632a4b-2d37-4cb3-b8ba-0c052d4ba85a" />
 
 Retrieves each park’s location and opening date, ordering the results in descending order by opening date (newest to oldest).
