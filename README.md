@@ -1,7 +1,7 @@
 # Disney
 Database Model and system for Disney
 
-Team Members Mahathi - https://github.com/mrb74060/Disney.git Morgan - https://github.com/morganlemmings Clark - https://github.com/clarkfarrell2/Disney Melissa - https://github.com/melissatran0
+Team Members Mahathi - https://github.com/mrb74060/Disney.git Morgan - https://github.com/morganlemmings Clark - https://github.com/clarkfarrell2/Disney Melissa - https://github.com/melissatran0 Jason-https://github.com/jasongold3
 
 Problem Description
 
